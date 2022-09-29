@@ -12,4 +12,4 @@
  - Listagem dos games disponíveis;
 #Screenshot
 
-![Tela](web.png)
+![Tela](https://github.com/GabrielASF2/nlw-esports/blob/main/.github/web.png)
