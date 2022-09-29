@@ -8,9 +8,9 @@ O projeto foi desenvolvido no NLW, evento da Rocketseat e usa Node.js no Back-en
 
 [Back-end](http://exemplo.com/)
 
-[Front-End](http://exemplo.com/)
+[Versão Web](https://github.com/GabrielASF2/nlw-esports/blob/main/web)
 
-[Mobile](http://exemplo.com/)
+[Versão Mobile](https://github.com/GabrielASF2/nlw-esports/blob/main/mobile)
 
 
 # 💻 Como executar o projeto 
