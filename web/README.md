@@ -10,3 +10,6 @@
 # Funcionalidades 
  - Criação da Landing Page;
  - Listagem dos games disponíveis;
+#Screenshot
+
+![Tela](web.png)
